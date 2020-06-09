@@ -13,6 +13,13 @@ The python packages can be installed with
     pip3 install requests
     pip3 install lxml
     pip3 install cssselect
+    
+    #Additions
+    pip3 install nltk
+    pip3 install youtube-transcript-api
+    
+    
+    # for running seqence scraping file
     pip3 install pafy
     pip3 install youtube-dl
     pip3 install bs4
