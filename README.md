@@ -10,9 +10,14 @@ Jaidev Shah, Columbia SEAS '21
 
 The python packages can be installed with
 
-    pip install requests
-    pip install lxml
-    pip install cssselect
+    pip3 install requests
+    pip3 install lxml
+    pip3 install cssselect
+    pip3 install pafy
+    pip3 install youtube-dl
+    pip3 install bs4
+    pip3 install tensorflow-hub
+    
 
 
 
